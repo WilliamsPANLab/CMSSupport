@@ -10,7 +10,7 @@
 		601E8A481B2B58F000BB02FB /* CMSSupport.h in Headers */ = {isa = PBXBuildFile; fileRef = 601E8A471B2B58F000BB02FB /* CMSSupport.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		601E8A4E1B2B58F000BB02FB /* CMSSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 601E8A421B2B58F000BB02FB /* CMSSupport.framework */; };
 		601E8A551B2B58F100BB02FB /* CMSSupportTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 601E8A541B2B58F100BB02FB /* CMSSupportTests.m */; };
-		60EBFE5A1B32179F0037876A /* APCCMSSupport.h in Headers */ = {isa = PBXBuildFile; fileRef = 60EBFE581B32179F0037876A /* APCCMSSupport.h */; };
+		60EBFE5A1B32179F0037876A /* APCCMSSupport.h in Headers */ = {isa = PBXBuildFile; fileRef = 60EBFE581B32179F0037876A /* APCCMSSupport.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		60EBFE5B1B32179F0037876A /* APCCMSSupport.m in Sources */ = {isa = PBXBuildFile; fileRef = 60EBFE591B32179F0037876A /* APCCMSSupport.m */; };
 		60EBFE621B3230930037876A /* openssl.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 806F241B1B3110E000B50664 /* openssl.framework */; };
 /* End PBXBuildFile section */
